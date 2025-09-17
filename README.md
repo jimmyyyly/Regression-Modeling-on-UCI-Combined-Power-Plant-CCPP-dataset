@@ -1,4 +1,4 @@
-## CS577 Quiz Regression
+## CS577 Regression
 
 This repo trains and evaluates several regression models on the UCI Combined Cycle Power Plant (CCPP) dataset using scikit-learn.
 
@@ -50,5 +50,6 @@ The script prints MAE, MSE, RMSE, R2, and AdjR2 (when applicable) for each model
   - `pandas 2.3.2`
   - `scikit-learn 1.7.2`
   - `ucimlrepo 0.0.7`
+
 
 
